@@ -1,16 +1,16 @@
 {
-    "name": "It's Ourple!",
-    "description": "me when i fuckin ourple",
+    "name": "thej",
+    "description": "real????",
     "authors": [
         {
-            "name": "KKing",
-            "id": "Noneya"
+            "name": "BenLabno",
+            "id": "iddeeznuts"
         }
     ],
     "spec": 2,
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/727185125821120534/1207922003215122432/ezgif-5-90717c3628.gif?ex=65e16807&is=65cef307&hm=f14b32e0369e5b64420541a507aa028caac371c21fca7c1aca77f844ab328aae&",
+        "url": "https://media1.tenor.com/m/UjdnJEkrVXwAAAAC/earthbound-mother2.gif",
         "alpha": 0.5,
-        "color": "#081924"
+        "color": "#FF0000"
     }
 }
